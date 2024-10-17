@@ -4,3 +4,4 @@ squared_numbers = [x**2 for x in numbers]
 
 for num in squared_numbers:
     print(num)
+
